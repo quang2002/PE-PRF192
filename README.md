@@ -1,5 +1,5 @@
 # PE-PRF192
-![](/images/logo.jpg)
+![](/images/avatar.jpg)
 1. Find maximun "even" number among five numbers.
 2. Enter n [n is also the first element in array]. Print out all even number at even position and sorted increasing.
 3. Enter h [h is the height of pyramid (h < 20)]. Print out half of the empty pyramid.
