@@ -1,5 +1,8 @@
 # PE-PRF192
 ![](/images/avatar.jpg)
+
+PE1
+
 1. Find maximum *"even"* number among five numbers.
 2. Enter n **[n is also the first element in array]**. Print out *all even number at even position and sorted increasing*.
 3. Enter h **[h is the height of pyramid (h < 20)]**. Print out *half of the empty pyramid*.
@@ -9,3 +12,7 @@
 7. Enter integer number 'a'. Check if 'a' is a power of 3 or not. If it is, prints *the exponent that make 'a' is the power of 3*. Else, prints out *"{a} is not a power of 3"*.
 8. Display the number of characters in the first three words of string.
 9. Enter integer number 'n'. If 'n' is a prime number, then prints out *binary number representation of 'n'*. If it isn't, prints *"{n} is not a prime number"*.
+
+PE2
+
+![image](https://user-images.githubusercontent.com/86671930/123820726-ff49aa80-d924-11eb-9601-b205c1f0c14b.png)
