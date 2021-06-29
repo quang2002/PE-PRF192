@@ -1,3 +1,6 @@
+﻿/*
+    Nhập n kí tự, in ra 2 kí tự có số lần xuất hiện ít nhất
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

@@ -1,5 +1,5 @@
-/*
-
+﻿/*
+    Cắt chuỗi, đếm từ bắt đầu bắt đầu bằng h và kết thúc bằng g
 */
 
 #include <stdio.h>
