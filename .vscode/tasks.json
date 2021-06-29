@@ -8,7 +8,8 @@
                 "-Wimplicit-function-declaration",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
-                "${file}"
+                "${file}",
+                "-lm"
             ],
             "options": {
                 "cwd": "${fileDirname}"
