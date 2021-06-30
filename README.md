@@ -22,18 +22,18 @@ PE2020
 ![image](https://user-images.githubusercontent.com/86671930/124000186-82d6ca80-d9fd-11eb-8135-0dd0ed273348.png)
 
 PE3
-Câu 1: Tính tổng các ước số của số nguyên dương N
-Câu 2: Tính S(x, n) = x – x^2 + x^3 - … + (-1)^n+1 * x^n
-Câu 3: Viết chương trình tìm số nguyên dương m lớn nhất sao cho 
+ Câu 1: Tính tổng các ước số của số nguyên dương N
+ Câu 2: Tính S(x, n) = x – x^2 + x^3 - … + (-1)^n+1 * x^n
+ Câu 3: Viết chương trình tìm số nguyên dương m lớn nhất sao cho 
 1 + 2 + … + m < N
-Câu 4: Viết chương trình in ra hình chữ nhật có kích thước m x n
-a. Hình chữ nhật đặc
-b. Hình chữ nhật rỗng
-Câu 5: Tìm số nguyên tố đầu tiên trong mảng 1 chiều các số nguyên. Nếu mảng không có số nguyên tố thì trả về – 1
-Câu 6: Kiểm tra mảng có tăng dần hay không nếu không thì in ra -1
-Câu 7: Xóa tất cả các phần tử trùng nhau trong mảng và chỉ giữ lại duy nhất 1 phần tử.
-Câu 8: Giả sử độ dài chuỗi chia hết cho 3. Thêm ‘-‘ sau mỗi 3 kí tự
+ Câu 4: Viết chương trình in ra hình chữ nhật có kích thước m x n
+ a. Hình chữ nhật đặc
+ b. Hình chữ nhật rỗng
+ Câu 5: Tìm số nguyên tố đầu tiên trong mảng 1 chiều các số nguyên. Nếu mảng không có số nguyên tố thì trả về – 1
+ Câu 6: Kiểm tra mảng có tăng dần hay không nếu không thì in ra -1
+ Câu 7: Xóa tất cả các phần tử trùng nhau trong mảng và chỉ giữ lại duy nhất 1 phần tử.
+ Câu 8: Giả sử độ dài chuỗi chia hết cho 3. Thêm ‘-‘ sau mỗi 3 kí tự
  Vd: 123abcprf  -> 123-abc-prf
-Câu 9: Xác định chuỗi đối xứng.
-Câu 10: Đếm trong chuỗi xem có bao nhiêu kí tự số.
-Câu 11: Cắt hết dấu cách thừa trong chuỗi
+ Câu 9: Xác định chuỗi đối xứng.
+ Câu 10: Đếm trong chuỗi xem có bao nhiêu kí tự số.
+ Câu 11: Cắt hết dấu cách thừa trong chuỗi
