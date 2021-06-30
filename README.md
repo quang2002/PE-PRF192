@@ -22,6 +22,7 @@ PE2020
 ![image](https://user-images.githubusercontent.com/86671930/124000186-82d6ca80-d9fd-11eb-8135-0dd0ed273348.png)
 
 PE3
+
  Câu 1: Tính tổng các ước số của số nguyên dương N
  
  Câu 2: Tính S(x, n) = x – x^2 + x^3 - … + (-1)^n+1 * x^n
