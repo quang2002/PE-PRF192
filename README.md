@@ -48,3 +48,29 @@ PE3
  Câu 10: Đếm trong chuỗi xem có bao nhiêu kí tự số.
  
  Câu 11: Cắt hết dấu cách thừa trong chuỗi
+
+
+PE SP2021
+
+Ex1:The program allows user to enter an integer: 'x' using the keyboard (STDIN). If 'x' is an odd number, it prints out: "x is an odd number"; Else, it prints out: "x is not an odd number", where 'x' is the entered number.
+
+Ex2:Users are required to enter an integer number 'n' (2 <n<12) using the keyboard (STDIN). The program needs to find the factorial:(n-1)!.
+The program then displays this number on screen. 
+
+Ex3:Your program allows users to enter an integer number 'n'. If 'n' is a palindrome number, the program prints out: "n is a palindrome number"else, the program prints out: "n is not a palindrome number". Here, 'n' is the entered number.
+
+Ex4:Your program allows users to enter a string 'o' (with maximum length of 100 characters). The system prints out the string with all uppercase letters.
+
+Ex5:Your program allows users to enter a string 's' (length of 's' < 100 characters). The program prints the reversed string in the proper form (capitalizing the first character of each word
+
+Ex6:Your program allows users to enter an integer number 'n'. Then it reads 'n' integer numbers from users. The program sorts the last 'n' entered numbers then prints the odd numbers in descending order. There is a newline character n' between any two printed numbers.
+
+Ex7:Your program should print out a right triangle pattern of prime numbers with height of 'n' rows entered by user. Between any two adjacent numbers, there is a space character.
+
+Ex8:Your program allows users to enter array of 'n' integers, where 'n' is entered by the user (n<10). The program prints the triple of each entered even number following the order that they were entered. There is a newline character in' between any two printed numbers. 
+
+Ex9:Your program allows a user to enter array of 'n' integers, where 'n' is entered by the user (n<10). The program prints the odd numbers at the odd positions in descending order. The first row (where 'n' is entered) has position = 0. There is a newline character 'n' betw any two printed numbers.
+
+Ex10:Your program allows users to enter a string 'o' with maximum length of 50 characters. The system prints out just the characters (excluding digits) and their frequencies appearing in the string, following the chronological order (appeared first in the given string). There is an underscore character between a character and its frequency. There is a space character between any adjacent group of character frequency.
+
+
