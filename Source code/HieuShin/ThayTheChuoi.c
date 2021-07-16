@@ -11,7 +11,7 @@ void strreplace(char *string, const char *find, const char *replaceWith){
         *strstr(string, find) = '\0';    //Take away the part to replace and the part after it in the initial string
         strcat(string, replaceWith);    //Concat the first part of the string with the part to replace with
         strcat(string, temporaryString);    //Concat the first part of the string with the part after the replaced part
-        free(temporaryString);    //Free the memory to avoid memory leaks
+        //free(temporaryString);    //Free the memory to avoid memory leaks
     }
 }
 int main()
